@@ -8,7 +8,7 @@ import os
 import pygame
 
 
-"""this is my final project for the amaizing free online course in the Codeinplace Stanford, where i met such awesome and inspiring people to guide me through! much thanks to my professors Chris, Mayahem and my section leader: Anwarul!'
+"""this is my final project for the amaizing free online course in the Codeinplace Stanford, where i met such awesome and inspiring people to guide me through! much thanks to my professors Chris, Mehran  and my section leader: Anwarul!'
 ,to generate the sounds and effect i used elevenlabs sound effects."""
 
 #the constants
