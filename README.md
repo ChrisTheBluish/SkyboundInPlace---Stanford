@@ -9,9 +9,7 @@ random
 time
 os
 from PIL import Image, ImageTk
-pip install simpleaudio (for me required the installation of Microsoft C++ Build Tools website.
-Download and install the build tools. During the installation, make sure to select the "Desktop development with C++")
-
+ pygame (in this project was used only for the mixer.music)
 
 
 Here are the milestones to achieve this project:
@@ -24,13 +22,18 @@ Here are the milestones to achieve this project:
 **Milestone 2:**
 - Display and update score
 - Implement enemy plane mobility (moving from right to left)
+- implemento enemy independent random velocity and position
 - Create start game screen
 
 **Milestone 3:**
 - Develop an incremental difficulty system
 - Implement collision detection
+- Implement invencibility period pos collision
 - Display number of lives
+- 
 
 **Milestone 4:**
-- Create game over screen
+- Create game_over() interaction
 - add sounds effects.
+
+
